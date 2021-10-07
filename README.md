@@ -1,6 +1,6 @@
 # Java Servlet Web Application Blog Project
 
-Bu proje Java, Servlet ve MySQL yazılımlarını kullanarak bir blog web uygulamasıdır. Admin giriş yaptıktan sonra yeni blog yazısı ekleyebilir, güncelleyebilir ve silebilir.
+Bu proje Java, Servlet ve MySQL yazılımlarını kullanarak bir blog web uygulamasıdır. Admin giriş yaptıktan sonra yeni blog yazısı ekleyebilir, güncelleyebilir ve silebilir. Giriş yapan kullancıların şifre değiştirme aksiyonuna sahiptir ve anasayfadan bütün blog yazılarını okuyabilirler. Gerekli kontroller yapılmıştır, bilgileri ve güvenlikleri sağlanmıştır.
 
 
 ## Kullanılan Diller ve Yetenekler
